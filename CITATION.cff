@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Designing a Secure, Governed and Scalable GenAI Capability"
+message: "If you use this work, please cite it as below."
+type: report
+authors:
+  - family-names: "Brulé"
+    given-names: "Daniel"
+year: 2026
+version: "1.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/danielBrule/enterprise-genai-capability-roadmap"
+abstract: "A phased enterprise roadmap for designing, governing and scaling secure GenAI capabilities."
+keywords:
+  - generative-ai
+  - genai
+  - ai-governance
+  - enterprise-ai
+  - operating-model
+  - ai-risk
+  - ai-platform
